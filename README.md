@@ -1,2 +1,2 @@
 Mariana Baez
-Este es un repositorio del modulo 2 del prepcoursehenry clonar
+Este proyecto es de prueba para clonar desde la red social
